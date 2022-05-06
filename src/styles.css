@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: rgba(94, 97, 124, 0.644);
+}
+.title{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 20px;
+}
+.red{
+  color: rgba(255, 0, 0, 0.452);
+}
+img{
+  width: 250px;
+}
